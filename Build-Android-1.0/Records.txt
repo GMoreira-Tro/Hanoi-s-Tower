@@ -1,0 +1,24 @@
+Level 4
+1. 15 moves -> vg
+2. 15 moves -> sdfa
+3. 110 moves -> 
+
+Level 5
+1. 90 moves -> 
+2. 9999 moves ->
+3. 9999 moves ->
+
+Level 6
+1. 999999 moves ->
+2. 999999 moves ->
+3. 999999 moves ->
+
+Level 7
+1. 999999 moves ->
+2. 999999 moves ->
+3. 999999 moves ->
+
+Level 8
+1. 999999 moves ->
+2. 999999 moves ->
+3. 999999 moves ->
